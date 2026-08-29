@@ -54,62 +54,23 @@ I've been learning and building for **6+ years**, with **2+ years of professiona
 ## Selected Work
 
 <p align="center">
-  <img src="https://media.rtlcdn.com/2026/02/e81276148d994a83a716b21336e9212dddcae17381b093-1050x520.jpg" width="31%" />
-  <img src="./assets/projects/project-2.png" width="31%" />
-  <img src="./assets/projects/project-3.png" width="31%" />
+  <strong>Want to see more of my work?</strong>
+  <br>
+  I have more frontend and WordPress projects available to view.
 </p>
 
 <p align="center">
-  <img src="./assets/projects/project-4.png" width="31%" />
-  <img src="./assets/projects/project-5.png" width="31%" />
-  <img src="./assets/projects/project-6.png" width="31%" />
+  <a href="https://t.me/username">
+    <img src="https://img.shields.io/badge/View%20Portfolio%20on%20Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/username">
+    <img src="https://img.shields.io/badge/Ask%20for%20Portfolio%20on%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="./assets/projects/project-7.png" width="31%" />
+  <sub>More projects and frontend work are available upon request.</sub>
 </p>
-
-### Project 01
-
-**Project Name**
-
-A modern frontend project focused on clean UI, responsive design and a polished user experience.
-
-### Project 02
-
-**Project Name**
-
-A responsive web interface developed from an original concept or Figma design.
-
-### Project 03
-
-**Project Name**
-
-A modern website interface with attention to usability, responsiveness and visual details.
-
-### Project 04
-
-**Project Name**
-
-A frontend implementation focused on clean structure and responsive layouts.
-
-### Project 05
-
-**Project Name**
-
-A modern web experience built with a focus on performance and user experience.
-
-### Project 06
-
-**Project Name**
-
-A responsive website interface developed with a clean and maintainable frontend structure.
-
-### Project 07
-
-**Project Name**
-
-A custom web project designed and developed with attention to detail.
 
 ---
 
@@ -118,6 +79,7 @@ A custom web project designed and developed with attention to detail.
 **Laravel** — Expanding my backend development skills and moving toward more advanced full-stack development.
 
 ---
+
 
 ## Let's Work Together
 
