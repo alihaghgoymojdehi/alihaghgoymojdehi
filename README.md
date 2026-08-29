@@ -54,7 +54,7 @@ I've been learning and building for **6+ years**, with **2+ years of professiona
 ## Selected Work
 
 <p align="center">
-  <img src="./assets/projects/project-1.png" width="31%" />
+  <img src="https://media.rtlcdn.com/2026/02/e81276148d994a83a716b21336e9212dddcae17381b093-1050x520.jpg" width="31%" />
   <img src="./assets/projects/project-2.png" width="31%" />
   <img src="./assets/projects/project-3.png" width="31%" />
 </p>
