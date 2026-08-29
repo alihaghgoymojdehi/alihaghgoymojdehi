@@ -88,7 +88,7 @@ Have a website idea, Figma design, WordPress project or frontend task?
 </p>
 
 <p align="center">
-  <a href="[https://t.me/username](https://t.me/alihaghgoymojdehi)">Telegram</a>
+  <a href="https://t.me/alihaghgoymojdehi">Telegram</a>
   &nbsp;·&nbsp;
   <a href="https://discord.gg/wHwbXMJ32T">Discord</a>
 </p>
