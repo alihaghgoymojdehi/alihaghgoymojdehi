@@ -13,11 +13,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:arminmogdahi@gmail.com">Email</a>
+  <a href="https://t.me/alihaghgoymojdehi">Telegram</a>
   ·
-  <a href="https://t.me/username">Telegram</a>
-  ·
-  <a href="https://discord.com/users/username">Discord</a>
+  <a href="https://discord.com/users/911900857593909258">Discord</a>
 </p>
 
 ---
