@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://t.me/alihaghgoymojdehi">Telegram</a>
   ·
-  <a href="https://discord.com/users/911900857593909258">Discord</a>
+  <a href="https://discord.gg/wHwbXMJ32T">Discord</a>
 </p>
 
 ---
@@ -58,10 +58,10 @@ I've been learning and building for **6+ years**, with **2+ years of professiona
 </p>
 
 <p align="center">
-  <a href="https://t.me/username">
+  <a href="https://t.me/alihaghgoymojdehi">
     <img src="https://img.shields.io/badge/View%20Portfolio%20on%20Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://discord.com/users/username">
+  <a href="https://discord.gg/wHwbXMJ32T">
     <img src="https://img.shields.io/badge/Ask%20for%20Portfolio%20on%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
@@ -88,11 +88,9 @@ Have a website idea, Figma design, WordPress project or frontend task?
 </p>
 
 <p align="center">
-  <a href="mailto:arminmogdahi@gmail.com">📧 Email</a>
+  <a href="[https://t.me/username](https://t.me/alihaghgoymojdehi)">Telegram</a>
   &nbsp;·&nbsp;
-  <a href="https://t.me/username">Telegram</a>
-  &nbsp;·&nbsp;
-  <a href="https://discord.com/users/username">Discord</a>
+  <a href="https://discord.gg/wHwbXMJ32T">Discord</a>
 </p>
 
 ---
