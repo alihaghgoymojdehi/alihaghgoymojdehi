@@ -17,7 +17,7 @@
   ·
   <a href="https://discord.gg/wHwbXMJ32T">Discord</a>
   ·
-  <a href="https://www.linkedin.com/in/ali-haghgoymojdehi/">linkedin/</a>
+  <a href="https://www.linkedin.com/in/ali-haghgoymojdehi/">Linkedin</a>
 </p>
 
 ---
@@ -94,7 +94,7 @@ Have a website idea, Figma design, WordPress project or frontend task?
   &nbsp;·&nbsp;
   <a href="https://discord.gg/wHwbXMJ32T">Discord</a>
   &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/ali-haghgoymojdehi/">linkedin/</a>
+  <a href="https://www.linkedin.com/in/ali-haghgoymojdehi/">Linkedin</a>
 </p>
 
 ---
