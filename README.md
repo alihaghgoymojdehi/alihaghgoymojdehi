@@ -16,6 +16,8 @@
   <a href="https://t.me/alihaghgoymojdehi">Telegram</a>
   ·
   <a href="https://discord.gg/wHwbXMJ32T">Discord</a>
+  ·
+  <a href="https://www.linkedin.com/in/ali-haghgoymojdehi/">linkedin/</a>
 </p>
 
 ---
@@ -91,6 +93,8 @@ Have a website idea, Figma design, WordPress project or frontend task?
   <a href="https://t.me/alihaghgoymojdehi">Telegram</a>
   &nbsp;·&nbsp;
   <a href="https://discord.gg/wHwbXMJ32T">Discord</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/ali-haghgoymojdehi/">linkedin/</a>
 </p>
 
 ---
