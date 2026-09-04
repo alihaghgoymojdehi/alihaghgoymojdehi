@@ -1,100 +1,108 @@
 <h1 align="center">Ali Mojdehi</h1>
 
 <p align="center">
-  <strong>Frontend Developer & WordPress Developer</strong>
+  <strong>Frontend Developer · React · JavaScript · WordPress</strong>
 </p>
 
 <p align="center">
-  I build modern, responsive websites and turn designs into polished web experiences.
+  I build modern, responsive and production-focused web experiences with a strong focus on frontend development.
 </p>
 
 <p align="center">
-  🟢 <strong>Available for Remote Projects & Freelance Collaboration</strong>
-</p>
-
-<p align="center">
-  <a href="https://t.me/alihaghgoymojdehi">Telegram</a>
-  ·
-  <a href="https://discord.gg/wHwbXMJ32T">Discord</a>
-  ·
-  <a href="https://www.linkedin.com/in/ali-haghgoymojdehi/">Linkedin</a>
+  <a href="https://www.linkedin.com/in/ali-haghgoymojdehi/">LinkedIn</a>
 </p>
 
 ---
 
 ## About Me
 
-I'm a Web Developer focused primarily on **Frontend Development and WordPress**.
+I'm a **Frontend Developer** focused on building modern, responsive and user-friendly websites and web applications.
 
-I enjoy turning ideas and Figma designs into clean, responsive and functional websites, with a strong focus on code quality and the final user experience.
+I enjoy turning Figma designs and product ideas into clean, functional interfaces with a strong focus on **user experience, reusable components, performance and maintainable code**.
 
-I've been learning and building for **6+ years**, with **2+ years of professional commercial experience**.
+I've been learning and building software for **6+ years**, with **2+ years of professional commercial experience**.
+
+Alongside frontend development, I have professional experience working with **WordPress and custom WordPress themes**.
 
 ---
 
 ## Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,tailwind,js,alpinejs,wordpress,mysql,git,github" />
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,alpinejs" />
+</p>
+
+### Backend & CMS
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,wordpress,mysql" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vite" />
 </p>
 
 ---
 
-## Services
+## What I Do
 
-* 🎨 **Figma to Website** — Converting UI designs into responsive websites
-* 💻 **Frontend Development** — Modern and responsive web interfaces
-* 🧩 **WordPress Development** — Custom WordPress websites and themes
-* 🛠️ **Custom WordPress Themes** — Building themes from scratch
-* ⚡ **Website Optimization** — Improving performance and fixing frontend issues
-* 🤖 **Telegram Bots** — Developing custom Telegram bots
+* **Frontend Development** — Building responsive and maintainable web applications
+* **React Development** — Creating component-based and interactive interfaces
+* **Figma to Code** — Converting UI designs into accurate, responsive implementations
+* **WordPress Development** — Building custom websites and themes
+* **Website Optimization** — Improving frontend performance and user experience
+* **API Integration** — Connecting frontend applications with REST APIs
 
 ---
 
-## Selected Work
+## Public Projects
 
-<p align="center">
-  <strong>Want to see more of my work?</strong>
-  <br>
-  I have more frontend and WordPress projects available to view.
-</p>
+I'm building public projects focused on demonstrating practical frontend development skills.
 
-<p align="center">
-  <a href="https://t.me/alihaghgoymojdehi">
-    <img src="https://img.shields.io/badge/View%20Portfolio%20on%20Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://discord.gg/wHwbXMJ32T">
-    <img src="https://img.shields.io/badge/Ask%20for%20Portfolio%20on%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
+My public repositories will focus on:
 
-<p align="center">
-  <sub>More projects and frontend work are available upon request.</sub>
-</p>
+* React and modern JavaScript
+* REST API integration
+* Reusable components
+* Responsive UI development
+* State management
+* Real-world application architecture
+* Performance and user experience
+
+More projects will be added as they are completed.
+
+---
+
+## Commercial Experience
+
+I have developed and shipped **commercial websites and HTML templates** for real clients and digital marketplaces.
+
+Due to the commercial nature of these projects, their source code is not publicly available.
+
+Selected commercial work and live previews are available through my portfolio.
 
 ---
 
 ## Currently Learning
 
-**Laravel** — Expanding my backend development skills and moving toward more advanced full-stack development.
+**Advanced React Development & Laravel**
+
+I'm currently improving my React development skills while expanding my backend knowledge to build larger and more maintainable web applications.
 
 ---
 
-
 ## Let's Work Together
 
-Have a website idea, Figma design, WordPress project or frontend task?
+I'm open to **remote frontend development and freelance opportunities**.
+
+If you're looking for someone who can turn a design or idea into a responsive, functional and polished web experience, feel free to get in touch.
 
 <p align="center">
-  <strong>I'm open to remote projects and freelance collaborations.</strong>
-</p>
-
-<p align="center">
-  <a href="https://t.me/alihaghgoymojdehi">Telegram</a>
-  &nbsp;·&nbsp;
-  <a href="https://discord.gg/wHwbXMJ32T">Discord</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/ali-haghgoymojdehi/">Linkedin</a>
+  <a href="https://www.linkedin.com/in/ali-haghgoymojdehi/">LinkedIn</a>
 </p>
 
 ---
