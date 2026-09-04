@@ -5,24 +5,24 @@
 </p>
 
 <p align="center">
-  I build modern, responsive and production-focused web experiences with a strong focus on frontend development.
+  Building responsive, maintainable and production-focused web experiences.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ali-haghgoymojdehi/">LinkedIn</a>
+  ·
+  <a href="https://github.com/alihaghgoymojdehi">GitHub</a>
 </p>
 
 ---
 
 ## About Me
 
-I'm a **Frontend Developer** focused on building modern, responsive and user-friendly websites and web applications.
+I'm a **Frontend Developer** focused on building modern websites and web applications with a strong emphasis on clean UI, responsive design, reusable components and practical performance.
 
-I enjoy turning Figma designs and product ideas into clean, functional interfaces with a strong focus on **user experience, reusable components, performance and maintainable code**.
+My main focus is **React and modern JavaScript**, while I also have professional experience with **WordPress, custom themes and PHP**.
 
-I've been learning and building software for **6+ years**, with **2+ years of professional commercial experience**.
-
-Alongside frontend development, I have professional experience working with **WordPress and custom WordPress themes**.
+I enjoy turning designs and product ideas into polished, functional interfaces and working across the frontend stack from UI implementation to API integration.
 
 ---
 
@@ -48,61 +48,59 @@ Alongside frontend development, I have professional experience working with **Wo
 
 ---
 
-## What I Do
+## What I Build
 
-* **Frontend Development** — Building responsive and maintainable web applications
-* **React Development** — Creating component-based and interactive interfaces
-* **Figma to Code** — Converting UI designs into accurate, responsive implementations
-* **WordPress Development** — Building custom websites and themes
-* **Website Optimization** — Improving frontend performance and user experience
-* **API Integration** — Connecting frontend applications with REST APIs
+- **React Applications** — Component-based interfaces and interactive web applications
+- **Responsive Websites** — Modern layouts optimized for desktop and mobile
+- **Figma to Code** — Translating UI designs into accurate, production-ready interfaces
+- **WordPress Websites** — Custom websites and themes with practical CMS workflows
+- **API Integrations** — Connecting frontend applications to REST APIs
+- **Frontend Optimization** — Improving usability, performance and maintainability
 
 ---
 
-## Public Projects
+## Projects
 
-I'm building public projects focused on demonstrating practical frontend development skills.
+I use my public GitHub repositories to demonstrate how I approach real-world frontend development.
 
-My public repositories will focus on:
+Projects focus on:
 
-* React and modern JavaScript
-* REST API integration
-* Reusable components
-* Responsive UI development
-* State management
-* Real-world application architecture
-* Performance and user experience
+- React and modern JavaScript
+- REST API integration
+- Reusable components
+- Responsive UI development
+- State management
+- Real-world application structure
+- Performance and user experience
 
-More projects will be added as they are completed.
+Each project is intended to demonstrate practical implementation rather than simple tutorial code.
 
 ---
 
 ## Commercial Experience
 
-I have developed and shipped **commercial websites and HTML templates** for real clients and digital marketplaces.
+I have worked on **commercial websites and HTML templates** for real clients and digital marketplaces.
 
-Due to the commercial nature of these projects, their source code is not publicly available.
-
-Selected commercial work and live previews are available through my portfolio.
+Some commercial projects cannot be published publicly because their source code is private. For those projects, I can provide relevant details, screenshots or live previews when appropriate.
 
 ---
 
-## Currently Learning
+## Currently Improving
 
-**Advanced React Development & Laravel**
+**Advanced React Development · Laravel · Application Architecture**
 
-I'm currently improving my React development skills while expanding my backend knowledge to build larger and more maintainable web applications.
+I'm continuously improving my React skills and expanding my backend knowledge to build larger, more maintainable applications.
 
 ---
 
-## Let's Work Together
+## Open to Opportunities
 
-I'm open to **remote frontend development and freelance opportunities**.
+I'm open to **remote frontend development, freelance projects and collaboration opportunities**.
 
-If you're looking for someone who can turn a design or idea into a responsive, functional and polished web experience, feel free to get in touch.
+If you need a developer who can turn a design or product idea into a responsive and functional web experience, feel free to get in touch.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ali-haghgoymojdehi/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/ali-haghgoymojdehi/">Let's connect on LinkedIn →</a>
 </p>
 
 ---
